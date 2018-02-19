@@ -1,0 +1,11 @@
+Time_ERMS_Ntrain	no
+X-axis_Neurons:	Init 	1	End 	500	StepSize 	5
+Y-axis_Ntrain:	Init 	500	End 	5000 	Num_curves 	5
+Param_array	00001111111111
+N_average	5
+
+Time_ERMS_Nparam	yes
+X-axis_Neurons:	Init 	1	End 	100  	StepSize 	5
+Y-axis_Nparam:	Init 	2	End 	14	Num_curves 	4
+Ntrain 		2000
+N_average	10

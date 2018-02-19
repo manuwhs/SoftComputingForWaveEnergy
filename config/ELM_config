@@ -1,0 +1,52 @@
+
+Train_data_file		./input_data/2005.dat
+Train_result_file	NONE
+Test_data_file		NONE
+Test_result_file	NONE
+
+Train_vector_number	6000
+Test_vector_number	1300
+Input_vector_size	14
+Output_vector_size	1
+
+Number_of_ELM		5
+Number_of_Neurons 	30
+Activation_func 	0
+N_threads		4
+
+
+
+
+
+Train_data_file		./input_data/trainolas2.dat
+Train_result_file	./input_data/trainresul.txt
+Test_data_file		./input_data/testola.dat
+Test_result_file	./input_data/testresul.txt
+
+
+Train_input_file	./input_data/uno
+Train_output_file	./input_data/dos
+Test_input_file		NONE
+Test_output_file	NONE
+
+Train_vector_number	60
+Test_vector_number	15
+Number_of_input		9
+Number_of_output	1
+
+Number_of_Neurons 	50
+N_threads		4
+
+/* 
+For algortithms that only use a given number of neurons, they use that number.
+For results:
+
+If we give Test files, we take the Training vectors from "Train_data_file", and the testing vectors from "Test_data_file".
+If we give NONE as Test files, Training and Testing vectors will be taken ramdomly from the "Train_data_file"
+
+
+*/
+
+
+
+

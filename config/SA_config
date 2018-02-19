@@ -1,0 +1,19 @@
+Number_of_ingots 	10
+Number_of_freezings  	1000
+
+Number_of_Max_Mutations 10
+
+Initial_Temperature	0.6
+Decreasing_konstant	0.995
+
+Initial_Ingot		0
+
+
+If initial temperature < 0 -> Auto
+Maximum number of mutations per go
+
+If there is initial ingot we write it and it will be the initial one, if not, we write NO
+and the initial ingots will be random
+
+If YES NUMBER
+fucking shits

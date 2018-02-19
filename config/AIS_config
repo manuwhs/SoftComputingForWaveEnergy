@@ -1,0 +1,12 @@
+Number_of_clonning_cycles 	200	
+Init_B_cells			10
+Max_B_cells			20
+Number_of_B_clones		20
+Number_of_random_Ab		5
+
+B_domain			5
+B_living_time			15
+
+Max_Master_cells 		100
+
+

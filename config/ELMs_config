@@ -1,0 +1,9 @@
+Selection_Vectors	1
+00001111111111
+N_ELMs			4
+FLAGS 			4
+
+Get_ELM_distribution 	no
+Num_of_ELMs		600
+Num_of_divisions	60
+// Cambiar flags a cada una de ellas yes o no.

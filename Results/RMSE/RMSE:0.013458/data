@@ -1,0 +1,10 @@
+Date: 20-6-2014(17:33:58) 
+RMSE: 0.013458 
+Selected_among: 14_parameters 
+
+
+Selected_vector: 01010010000000
+
+Hidden_neurons: 100 
+Train_vectors: 6000 
+Test_vectors: 1300 

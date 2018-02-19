@@ -1,0 +1,16 @@
+Number_of_organisms 	40
+Number_of_generations  	4
+
+Prob_of_Mutation 	0.02
+Prob_of_Crossover	0.85
+Elitist_Proportion	0.03
+Number_max_mutations	3
+
+Selection_Algorithm 	2
+
+Number_min_fighters	5
+Number_max_fighters	10
+
+Initial_Organisms 	0
+
+// TOURNAMENT_SEL  RANK_SEL  ROULETTE_WHEEL_SEL

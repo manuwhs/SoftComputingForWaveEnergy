@@ -1,0 +1,4 @@
+Get_Features_Evaluation		yes
+Get_FeaturePairs_Fitness	yes
+DO_SFS				no
+DO_SBE				no

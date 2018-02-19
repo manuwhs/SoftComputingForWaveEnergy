@@ -1,0 +1,10 @@
+set terminal png font Helvetica 16
+set grid
+set xrange [] 
+ set yrange []
+set output 'FP 13.png'
+set xlabel 'Feature'
+set ylabel 'Fitness'
+set style line 1 lw 2 
+set style line 2 lc rgb '#0000A0' lw 2 pt 6 ps 3 
+plot 'curves.dat' using 1:2 with lines ls 2  smooth unique title 'Features 13'

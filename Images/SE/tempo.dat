@@ -1,0 +1,12 @@
+set terminal png font Helvetica 16
+set grid
+     set autoscale y2fixmin 
+ set autoscale y2fixmax
+set xrange [:256] 
+ set yrange [0:]
+set output 'Search Space.png'
+set xlabel 'Solution'
+set ylabel 'Cost function'
+set style line 1 lw 2 
+set style line 2 lw 2 pt 6 ps 3 
+plot 'curves.dat' using 1:2 with lines ls 2  smooth unique title 'Search Space'
