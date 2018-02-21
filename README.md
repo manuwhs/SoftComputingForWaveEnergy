@@ -34,5 +34,4 @@ thesis are in Spanish since this was my final thesis of my Telecommincations Eng
 implementation of the Penrourse-Moore inverse using C which can be reused, as well as some interesting algorithms.
 
 The code has been tested with the valgrind tool to ensure that no memmory is left without allocation.
-In order to build the program follow the Makefile, everything is explained in the Thesis that can be downloaded from
-XXXXX
+In order to build the program follow the Makefile, everything is explained in the Thesis that can be found inside the "Documentation" folder.
